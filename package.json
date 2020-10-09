@@ -61,7 +61,7 @@
   "dependencies": {
     "debug": "^2.6.4",
     "glob": "^7.1.1",
-    "hap-client": "file:../hap-client",
+    "kamilner/hap-client": "^1.0.3",
     "lodash.merge": "^4.6.0",
     "mqtt": "^2.7.1",
     "mqtt-topics": "^1.0.2",
